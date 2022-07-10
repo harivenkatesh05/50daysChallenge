@@ -1,0 +1,8 @@
+Day 1 (sunday):
+    created expnading cards project - base level
+    learned: little bit css for img tag
+
+TODO:
+    1) webpack setup
+    2) css review
+    3) dom structure review
