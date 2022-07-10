@@ -1,0 +1,16 @@
+.image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50px;
+}
+
+.card.collapse {
+    width: 100px;
+    margin: 0px 10px;
+}
+
+.card.expand {
+    width: 600px;
+    margin: 0px 10px;
+}

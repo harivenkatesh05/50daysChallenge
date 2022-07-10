@@ -1,0 +1,27 @@
+[
+    {
+        "title" : "Explore The World",
+        "imgSrc" : "https://cdn.wallpapersafari.com/29/92/9VWQiO.jpg"
+    },
+
+    {
+        "title" : "Wild Forest",
+        "imgSrc" : "https://images.unsplash.com/photo-1610028877875-a1810b68db5c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2lsZCUyMGZvcmVzdHxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    {
+        "title" : "Sunny Beach",
+        "imgSrc" : "https://images.unsplash.com/photo-1579493933703-70473cdf84f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3VubnklMjBiZWFjaHxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    {
+        "title" : "City on Winter",
+        "imgSrc" : "https://www.tripsavvy.com/thmb/3k6UdmiVmNpJS8rYuvn8lEL8HXk=/735x0/canada-quebec-province-quebec-city-in-winter-the-upper-town-of-old-quebec-declared-a-world-heritage-by-unesco-536911491-574d04ab5f9b5851656345f6.jpg"
+    },
+
+    {
+        "title" : "Mountains - cloud",
+        "imgSrc" : "https://assets3.thrillist.com/v1/image/1679696/1200x630/flatten;crop_down;webp=auto;jpeg_quality=70"
+    }
+
+]
