@@ -6,3 +6,9 @@ TODO:
     1) webpack setup
     2) css review
     3) dom structure review
+
+Day 2 (Monday):
+    added css for card title
+    learned: css transition and animation
+
+TODO: same
