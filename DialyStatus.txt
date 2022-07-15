@@ -12,3 +12,8 @@ Day 2 (Monday):
     learned: css transition and animation
 
 TODO: same
+
+Day 3 (Friday):
+    webpack implemented
+    learned: animation css, bg img vs img tag
+    started project 2
