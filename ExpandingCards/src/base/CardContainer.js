@@ -1,5 +1,5 @@
-// import containerTemplate from './Templates/containerTemplate.html'
-// import './Styles/container.css'
+import containerTemplate from './Templates/containerTemplate.html'
+import './Styles/container.css'
 import { getAsHTMLTemplate } from './Utility/HTMLParser.js'
 import { Card } from './Component/Card.js';
 import { CardEventHandler } from './CardEventHandler.js';
@@ -12,8 +12,7 @@ export class CardContainer {
         this.dataStore    = dataStore;
         this.eventHandler = eventHandler || new CardEventHandler();
 
-        // const template = getAsHTMLTemplate(containerTemplate);
-        const template = document.getElementById('containerTemplate').content.cloneNode(true);
+        const template = getAsHTMLTemplate(containerTemplate);
         this.#dom      = template.querySelector('.container');
         this.#cards    = {}
 

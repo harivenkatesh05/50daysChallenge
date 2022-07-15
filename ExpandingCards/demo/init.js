@@ -1,4 +1,3 @@
-import { ExpandingCards } from "../app/ExpandingCards.js";
 
 const container = document.body.querySelector('.app');
 

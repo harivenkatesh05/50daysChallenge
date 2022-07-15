@@ -1,14 +1,13 @@
-// import { getAsHTMLTemplate } from '../Utility/HTMLParser.js';
-// import cardTemplate from '../Templates/cardTemplate.html';
-// import "../Styles/card.css"
+import { getAsHTMLTemplate } from '../Utility/HTMLParser.js';
+import cardTemplate from '../Templates/cardTemplate.html';
+import "../Styles/card.css"
 
 export class Card {
     #dom
     #name
 
     constructor(cardID, dataStore, eventHandler) {
-        // const template = getAsHTMLTemplate(cardTemplate);
-        const template = document.getElementById('cardTemplate').content.cloneNode(true);
+        const template = getAsHTMLTemplate(cardTemplate);
         this.#dom  = template.querySelector('.card');
 
         this.#name = this.#dom.querySelector('.name');
