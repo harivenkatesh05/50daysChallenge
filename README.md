@@ -3,7 +3,7 @@
 
 Project 1 - Expanding cards
 
-Used:
+Teach stack Used:
 es6 module
 webpack
     - Terser for js minify
@@ -19,5 +19,5 @@ Folder structure:
 Steps to run expand card:
     go to ExpandingCards folder in terminal
     run - npm install and then npm run build
-        After this you will get a output html (index.html) file in demo folder
+        Then you will get an output file (index.html) in demo folder
 
