@@ -21,3 +21,10 @@ Steps to run expand card:
     run - npm install and then npm run build
         Then you will get an output file (index.html) in demo folder
 
+
+Project 2 - Progress steps
+
+Teach stack Used:
+react
+webpack
+styled components

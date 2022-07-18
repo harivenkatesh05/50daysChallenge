@@ -17,3 +17,8 @@ Day 3 (Friday):
     webpack implemented
     learned: animation css, bg img vs img tag
     started project 2
+
+Day 4 (Jul16 - Sat):
+    react implementation with webpack
+    learned: style components & react
+    done project 2
